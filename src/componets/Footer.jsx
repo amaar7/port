@@ -2,8 +2,9 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>
-      
+    <div className='max-w-[1200px] sm:h-[150px] p-12 flex justify-between mx-auto'>
+        <span className='primary-color'>A. Ahmed</span>
+        <p className='text-gray-600'>amarrahmeddd0@gmail.com <br/> #webDev2024</p>
     </div>
   )
 }
