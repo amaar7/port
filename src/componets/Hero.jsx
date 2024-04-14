@@ -1,5 +1,5 @@
 import React from 'react'
-import heroimage from '../assets/profilepic7.png'
+import heroimage from '../assets/Group 1.png'
 import { TypeAnimation } from 'react-type-animation'
 
 const Hero = () => {
@@ -31,7 +31,7 @@ const Hero = () => {
                 />
             </h1>
             <p className='text-white sm:text-lg my-6 lg:text-xl'>
-                My name is Amar Ahmed and I have 6 months experience in web development
+                My name is Amar Ahmed and I have 2 years experience in web development.
             </p>
 
             <div className='my-8'>
